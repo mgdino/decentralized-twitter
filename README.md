@@ -1,5 +1,7 @@
 # Decentralized X
 
+Smart Contract Address: 0xc7fe1205bdb9d5d573f3af1003398eb37fd44271
+
 DX is a decentralized social media app that mimics the functionalities of the X app but with a twist.
 
 Its decentralized aspect allows users to stay anonymous by not requiring them to sign up with their personal information, rather by simply connecting their digital wallet.
@@ -21,5 +23,12 @@ More than its security, DX also provides an avenue forincome with its monetizati
 - Rewards are earned when a user gains a certain amount of followers and a certain
 amount of likes on their posts. 
 
-![](https://github.com/mgdino/decentralized-twitter/blob/main/Screenshots/login.gif)
-![](https://github.com/mgdino/decentralized-twitter/blob/main/Screenshots/Interaction.gif)
+<p align="center">
+<img src="https://github.com/mgdino/decentralized-twitter/blob/main/Screenshots/login.gif" alt="animated" />
+<img src="https://github.com/mgdino/decentralized-twitter/blob/main/Screenshots/Interaction.gif" alt="animated" />
+<img src="https://github.com/mgdino/decentralized-twitter/blob/main/Screenshots/transactions.png" alt="animated" />
+</p>
+
+<br>
+Inspired by ccrsxx
+
