@@ -39,3 +39,6 @@ next-env.d.ts
 # python
 /.mypy_cache
 *.py
+
+/DX/.env*
+/DX/.env*.local
