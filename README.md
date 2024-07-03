@@ -27,6 +27,8 @@ More than its security, DX also provides an avenue forincome with its monetizati
 - Rewards are earned when a user gains a certain amount of followers and a certain
 amount of likes on their posts. 
 
+## Demo & Screenshots
+
 <p align="center">
 <img width="95%" src="https://github.com/mgdino/decentralized-twitter/blob/main/Screenshots/login.gif" alt="animated" />
 <img width="95%" src="https://github.com/mgdino/decentralized-twitter/blob/main/Screenshots/Interaction.gif" alt="animated" />
