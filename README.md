@@ -28,9 +28,9 @@ More than its security, DX also provides an avenue forincome with its monetizati
 amount of likes on their posts. 
 
 <p align="center">
-<img src="https://github.com/mgdino/decentralized-twitter/blob/main/Screenshots/login.gif" alt="animated" />
-<img src="https://github.com/mgdino/decentralized-twitter/blob/main/Screenshots/Interaction.gif" alt="animated" />
-<img src="https://github.com/mgdino/decentralized-twitter/blob/main/Screenshots/token.png" alt="animated" />
+<img width="95%" src="https://github.com/mgdino/decentralized-twitter/blob/main/Screenshots/login.gif" alt="animated" />
+<img width="95%" src="https://github.com/mgdino/decentralized-twitter/blob/main/Screenshots/Interaction.gif" alt="animated" />
+<img width="95%" src="https://github.com/mgdino/decentralized-twitter/blob/main/Screenshots/token.png" alt="animated" />
 <img src="https://github.com/mgdino/decentralized-twitter/blob/main/Screenshots/transactions.png" alt="animated" />
 </p>
 
