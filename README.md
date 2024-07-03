@@ -18,7 +18,5 @@ More than its security, DX also provides an avenue forincome with its monetizati
 - User can edit their profile
 - Responsive design for mobile, tablet, and desktop
 - Users can customize the site color scheme and color background
-- Rewards are earned when a user gains a
-certain amount of followers and a certain
-amount of likes on their posts. Similar to
-how Youtube monetization works.
+- Rewards are earned when a user gains a certain amount of followers and a certain
+amount of likes on their posts. 
