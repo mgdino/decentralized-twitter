@@ -11,9 +11,9 @@ More than its security, DX also provides an avenue forincome with its monetizati
 
 ### Key Features
 - Minting of DX Tokens
-- Login without having the need to have email
-- Integration of Crypto wallets
-- Users can transfer their crypto tokens to other users
+- Login without having the need to use their email
+- Integration of Crypto Wallets
+- Users can transfer their crypto to other users or wallets
 - Users can add tweets, like, retweet, and reply
 - Users can delete tweets, add a tweet to bookmarks, and pin their tweet
 - Users can add images and GIFs to tweet
@@ -22,8 +22,8 @@ More than its security, DX also provides an avenue forincome with its monetizati
 - Users can see all users and the trending list
 - Realtime update likes, retweets, and user profile
 - User can edit their profile
-- Responsive design for mobile, tablet, and desktop
 - Users can customize the site color scheme and color background
+- Responsive design for mobile, tablet, and desktop
 - Rewards are earned when a user gains a certain amount of followers and a certain
 amount of likes on their posts. 
 
