@@ -20,3 +20,6 @@ More than its security, DX also provides an avenue forincome with its monetizati
 - Users can customize the site color scheme and color background
 - Rewards are earned when a user gains a certain amount of followers and a certain
 amount of likes on their posts. 
+
+![](https://github.com/mgdino/decentralized-twitter/blob/main/Screenshots/login.gif)
+![](https://github.com/mgdino/decentralized-twitter/blob/main/Screenshots/Interaction.gif)
