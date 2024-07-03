@@ -2,12 +2,21 @@
 
 DX is a decentralized social media app that mimics the functionalities of the X app but with a twist.
 
-Its decentralized aspect allows users to stay anonymous by not requiring them to sign up with their personal information, rather by simply connecting their digital wallet.
+Its decentralized aspect allows users to stay anonymous by not requiring them to sign up with their personal information, rather by simply connecting their crypto wallet.
 
-More than its security, DX also provides an avenue forincome with its monetization capabilities throughcross-user interaction.
+More than its security, DX also provides an avenue for income with its monetization capabilities through cross-user interaction.
 
-### Smart Contract Address: 0xc7fe1205bdb9d5d573f3af1003398eb37fd44271
-- Deployed in Sepolia Network under Etherium Blockchain
+<h3>
+Smart Contract Address: 
+</h3> 
+<p >
+0xc7fe1205bdb9d5d573f3af1003398eb37fd44271
+</p>
+<br>
+<p>Deployed in Sepolia Network under Etherium Blockchain</p>
+</p>
+
+# 
 
 ### Key Features
 - Minting of DX Tokens
